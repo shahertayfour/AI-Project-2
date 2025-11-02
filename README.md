@@ -186,24 +186,8 @@ Player O -> cell 0
 ------------------------------
         GAME OVER
 Result: Draw
-```
 
-Do not modify:
-- `game.py`  
-- `agent_base.py`  
-- `evaluation.py`  
-- `run_game.py`  
 
-Your implementation must work with the provided files as-is.
 
----
 
-## Deliverables
-
-1. **Completed Python files** (`minimax_agent.py`, `alphabeta_agent.py`, `expectimax_agent.py`).  
-2. **Project Report** summarizing your implementation and observations.  
-3. **Google Colab File Link** named `Group_x_Proj2.ipynb`.  
-   (File → Save a copy in Drive → Share → Change to "Anyone with the link" → Copy link)
-
----
 
